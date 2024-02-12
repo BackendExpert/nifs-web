@@ -30,7 +30,7 @@ const NewsEvent = () => {
                     </div>
                     <div className="md:ml-[-30px]">
                         <p className="text-2xl font-semibold">Special Lecture</p>
-                        <p className="">The NIFS inputs have been fruitful</p>
+                        <p className="">Advanced Raman Spectroscopy of Carbon Nanomaterials</p>
                     </div>
                 </div>
             </div>
