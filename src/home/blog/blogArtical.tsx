@@ -24,7 +24,7 @@ const blogArtical = () => {
         </div>
         <div className="md:mt-36 md:mb-16">
             <p className="">View Blog Articles</p>
-
+            <p className=""></p>
         </div>
     </div>
   )
