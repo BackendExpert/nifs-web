@@ -4,7 +4,14 @@ import NavBar from "../nav/Navbar"
 
 const MoreNews = () => {
   return (
-    <div>MoreNews</div>
+    <div>
+        <NavBar />
+        <div className="container mx-auto px-10">
+            News
+        </div>
+
+        <Footer />
+    </div>
   )
 }
 
