@@ -7,6 +7,7 @@ const NewsEvent = () => {
             <div className="">
                 <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="w-11/12 rounded"/>
                 <p className="">Award and Recognition</p>
+                <p className="">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
             </div>
             <div className="">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum, laborum sint enim suscipit culpa ex laboriosam voluptates unde officia distinctio reiciendis saepe molestias consequatur quod consectetur, natus reprehenderit sequi. Possimus.
