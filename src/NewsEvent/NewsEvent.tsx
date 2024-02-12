@@ -22,13 +22,15 @@ const NewsEvent = () => {
                         <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="md:w-10/12 rounded"/>
                     </div>
                     <div className="md:ml-[-30px]">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio adipisci laborum numquam velit beatae quidem iste laudantium necessitatibus ipsam vitae, nisi repudiandae nostrum architecto dolore sint 
+                    <p className="text-2xl font-semibold">Press Release</p>
+                        <p className="">The NIFS inputs have been fruitful</p>
                     </div>
                     <div className="">
                         <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="md:w-10/12 rounded"/>
                     </div>
                     <div className="md:ml-[-30px]">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio adipisci laborum numquam velit beatae quidem iste laudantium necessitatibus ipsam vitae, nisi repudiandae nostrum architecto dolore sint 
+                    <p className="text-2xl font-semibold">Press Release</p>
+                        <p className="">The NIFS inputs have been fruitful</p>
                     </div>
                 </div>
             </div>
