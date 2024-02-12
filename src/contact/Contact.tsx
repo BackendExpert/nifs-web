@@ -5,7 +5,7 @@ import Footer from "../footer/Footer"
 const Contact = () => {
   return (
     <div className="">
-      
+      <NavBar />
     <div className="container mx-auto px-10">
       <h1 className="text-center text-3xl font-semibold my-6">Contact Us</h1>
       <p className="text-2xl pb-2">Office Location</p>
@@ -173,6 +173,7 @@ const Contact = () => {
         </div>
       </div>
     </div>
+    <Footer />
     </div>
   )
 }
