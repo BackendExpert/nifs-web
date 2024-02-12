@@ -1,4 +1,5 @@
 import IonIcon from "@reacticons/ionicons"
+import { Link } from "react-router-dom"
 
 const NewsEvent = () => {
   return (
@@ -38,6 +39,7 @@ const NewsEvent = () => {
         </div>
 
         <div className="mt-8">
+            <Link></Link>
             <div className="text-xl bg-gray-700 flex text-white py-2 rounded-3xl md:ml-[35%] md:w-[30%] md:pl-[3%] pl-[15%]">
                 <p className="">View all news and events</p>
                 <p className="pt-[3px] pl-4"><IonIcon name="chevron-forward-circle-outline"></IonIcon></p>
