@@ -19,7 +19,7 @@ export default function App() {
         <Route path="/Research/Bio" element={<BIo />} ></Route>
         <Route path="/Research/Bio/Evolution" element={<Evolution />} ></Route>
         <Route path="/Research/Bio/Evolution/EvolutionMore" element={<EvolutionMore />} ></Route>
-        <Route path="/NewsEvent/MoreNews" element={} ></Route>
+        <Route path="/NewsEvent/MoreNews" element={<MoreNews />} ></Route>
       </Routes>
     </BrowserRouter>
   )
