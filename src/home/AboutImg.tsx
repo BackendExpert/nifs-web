@@ -1,5 +1,5 @@
 import IonIcon from "@reacticons/ionicons"
-
+import { Link } from "react-router-dom"
 
 const AboutImg = () => {
   return (
