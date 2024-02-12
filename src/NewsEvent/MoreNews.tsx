@@ -25,6 +25,22 @@ const MoreNews = () => {
                     <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Press Release</p>
                     <p className="mt-8">The NIFS input have been fruitful</p>
                 </div>
+
+                <div className="md:mb-0 mb-8">
+                    <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="rounded md:w-3/4 h-auto"/>
+                    <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Special lectures</p>
+                    <p className="mt-8">Advanced Raman Spectroscopy of Carbon Nanomaterials</p>
+                </div>
+                <div className="md:mb-0 mb-8">
+                    <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="rounded md:w-3/4 h-auto"/>
+                    <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Competition</p>
+                    <p className="mt-8">Champion of the Research Competition</p>
+                </div>
+                <div className="md:mb-0 mb-8">
+                    <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="rounded md:w-3/4 h-auto"/>
+                    <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Press Release</p>
+                    <p className="mt-8">The NIFS input have been fruitful</p>
+                </div>
                 
             </div>
 
