@@ -11,6 +11,7 @@ const Home = () => {
         <NavBar />
         <img src="https://wallpapercave.com/wp/wp2269706.jpg" alt="" className="md:h-1/2 h-full w-full"/>
         <Countdiv />
+        <BlogArtical />
         <Footer />
     </div>
   )
