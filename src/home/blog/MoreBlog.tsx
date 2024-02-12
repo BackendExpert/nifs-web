@@ -13,18 +13,18 @@ const MoreBlog = () => {
             <div className="md:grid grid-cols-3 gap-2 mt-12">
                 <div className="">
                     <img src="https://wallpapercave.com/wp/wp3739590.jpg" alt="" className="w-11/12 h-full rounded"/>
-                    <p className="mt-[-5px]">Awareness</p>
-                    <p className="">Stop the next pandemic? Stop illegal Wildlife tradel</p>
+                    <p className="mt-[-35px] text-xl font-semibold text-white ml-2">Awareness</p>
+                    <p className="mt-4">Stop the next pandemic? Stop illegal Wildlife tradel</p>
                 </div>
                 <div className="">
                     <img src="https://wallpapercave.com/wp/wp13371563.jpg" alt="" className="w-11/12 h-full rounded"/>
-                    <p className="">Awareness</p>
-                    <p className="">The Science of Aji-no-moto</p>
+                    <p className="mt-[-35px] text-xl font-semibold text-white ml-2">Awareness</p>
+                    <p className="mt-4">The Science of Aji-no-moto</p>
                 </div>
                 <div className="">
                     <img src="https://wallpapercave.com/wp/wp9102976.jpg" alt="" className="w-11/12 h-full rounded"/>
-                    <p className="">Awareness</p>
-                    <p className="">The Present Covid-19</p>
+                    <p className="mt-[-35px] text-xl font-semibold text-white ml-2">Awareness</p>
+                    <p className="mt-4">The Present Covid-19</p>
                 </div>
             </div>
             
