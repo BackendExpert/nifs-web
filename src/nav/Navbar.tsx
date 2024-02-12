@@ -1,6 +1,7 @@
 import IonIcon from "@reacticons/ionicons"
 import { useState } from "react"
 import SLlogo from "../assets/pngegg.png"
+import { Link } from "react-router-dom"
 
 const navBar = () => {
   let [openMenu, setMenu] = useState(false);
@@ -223,7 +224,7 @@ const navBar = () => {
                 </div>
               </div>
             </li>
-            <li className="px-4 py-4 md:py-0"><a href="">Contact</a></li>
+            <li className="px-4 py-4 md:py-0">Contact</li>
           </ul>
         </div>
       </div>
