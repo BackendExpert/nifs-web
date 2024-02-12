@@ -1,6 +1,8 @@
 import Footer from "../footer/Footer"
 import NavBar from "../nav/Navbar"
 import Countdiv from "./HomeData/CountDiv"
+import BlogArtical from "./blog/blogArtical"
+
 
 
 const Home = () => {
