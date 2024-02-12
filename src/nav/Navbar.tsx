@@ -78,7 +78,7 @@ const navBar = () => {
           </div>
         <div>
           <ul className={`md:flex md:items-center md:pb-0 absolute md:static z-auto z-[-1] md:bg-gray-700 bg-gray-800 left-0 md:mt-0 mt-[-16px] w-full md:w-auto md:pl-0 md:py-0 py-4 md:px-0 px-2 transition-all duration-500 ease-in ${openMenu ? 'top-20 ':'top-[-590px]'}`}>
-            <li className="px-4 py-4 md:py-0"><a href="">Home</a></li>
+            <Link to={'/'}><li className="px-4 py-4 md:py-0">Home</li></Link>
             <li className="px-4 py-4 md:py-0">
               <span className="cursor-pointer flex" onClick={() => AboutOpen(!openAbout)}>About <span className="pl-2 pt-[0px]"><IonIcon name={openAbout ? "chevron-up" : "chevron-down"}/></span></span>
               <div className={`rounded items-center py-6 px-4 absolute static bg-gray-700  z-auto z-[-1] md:w-11/12 w-11/12 md:left-12 left-[-2px] ml-4 md:mr-12 mt-[35px] w-auto ml-0 pr-24 md:pl-12 pl-9 md:mt-[-14px] md:mr-10 mr-8 transition-all duration-500 ease-in ${openAbout ? 'top-20':'md:top-[-700px] top-[-2000px]'}`}>
