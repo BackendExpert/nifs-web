@@ -9,7 +9,7 @@ const AboutImg = () => {
             <div className="md:visible invisible">
             </div>
 
-            <div className="">
+            <div className="md:mt-[-400px]">
                 <p className="mt-20 text-2xl font-semibold">We are the premier institute for Advancing fundamental Sciences</p>
                 <div className="">
                     <p className=""></p>
