@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div>
         <NavBar />
-        <img src="https://wallpapercave.com/wp/wp2269706.jpg" alt="" className="h-auto w-full"/>
+        <img src="https://wallpapercave.com/wp/wp2269706.jpg" alt="" className="h-1/2 w-full"/>
         <Footer />
     </div>
   )
