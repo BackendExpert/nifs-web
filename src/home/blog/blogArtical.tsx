@@ -21,10 +21,12 @@ const blogArtical = () => {
                 <p className="text-blue-500"><a href=""> Read More <IonIcon name="arrow-forward" className=""/></a></p>            
             </div>
         </div>
-        <div className="md:mt-36 md:mb-16 flex text-2xl bg-gray-700 text-white md:w-[30%] md:ml-[35%] md:pl-[5%] pl-[20%] md:py-2 py-2 my-12 rounded-3xl">
-            <p className="">View Blog Articles</p>
-            <p className="pt-[3px] pl-4"><IonIcon name="chevron-forward-circle-outline"></IonIcon></p>
-        </div>
+        <Link to={'/Blog'}>
+            <div className="md:mt-36 md:mb-16 flex text-2xl bg-gray-700 text-white md:w-[30%] md:ml-[35%] md:pl-[5%] pl-[20%] md:py-2 py-2 my-12 rounded-3xl">
+                <p className="">View Blog Articles</p>
+                <p className="pt-[3px] pl-4"><IonIcon name="chevron-forward-circle-outline"></IonIcon></p>
+            </div>
+        </Link>
     </div>
   )
 }
