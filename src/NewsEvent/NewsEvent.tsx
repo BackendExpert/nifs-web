@@ -38,7 +38,7 @@ const NewsEvent = () => {
         </div>
 
         <div className="mt-8">
-            <div className="text-xl bg-gray-700 flex text-white py-2 rounded-3xl md:w-[30%] md:pl-[3%]">
+            <div className="text-xl bg-gray-700 flex text-white py-2 rounded-3xl md:ml-[35%] md:w-[30%] md:pl-[3%]">
                 <p className="">View all news and events</p>
                 <p className="pt-[3px] pl-4"><IonIcon name="chevron-forward-circle-outline"></IonIcon></p>
             </div>
