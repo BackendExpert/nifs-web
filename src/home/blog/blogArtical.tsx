@@ -1,6 +1,5 @@
 import IonIcon from "@reacticons/ionicons"
 
-
 const blogArtical = () => {
   return (
     <div className="container mx-auto px-16 py-">
@@ -24,7 +23,7 @@ const blogArtical = () => {
         </div>
         <div className="md:mt-36 md:mb-16">
             <p className="">View Blog Articles</p>
-            <p className=""></p>
+            <p className=""><IonIcon name="chevron-forward-circle-outline"></IonIcon></p>
         </div>
     </div>
   )
