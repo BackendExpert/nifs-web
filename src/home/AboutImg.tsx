@@ -16,7 +16,7 @@ const AboutImg = () => {
                 <div className="">Learn more about NIFS</div>
             </div>
         </div>
-        <div className="md:mb-[300px]"></div>
+        <div className="md:mb-[200px] mb-[-100px]"></div>
     </div>
   )
 }
