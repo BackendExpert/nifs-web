@@ -1,3 +1,4 @@
+import IonIcon from "@reacticons/ionicons"
 import Footer from "../footer/Footer"
 import NavBar from "../nav/Navbar"
 
@@ -40,8 +41,11 @@ const MoreNews = () => {
                     <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="rounded md:w-3/4 h-auto"/>
                     <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Conference</p>
                     <p className="mt-8">NIFS 2024 Conferemce on November 2024</p>
-                </div>
-                
+                </div>                
+            </div>
+            <div className="">
+                <p className="">Page 1</p>
+                <p className=""><IonIcon name="" ></IonIcon></p>
             </div>
 
             <div className="md:mb-[150px]"></div>
