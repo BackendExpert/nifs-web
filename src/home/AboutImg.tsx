@@ -1,7 +1,7 @@
 
 const AboutImg = () => {
   return (
-    <div>AboutImg</div>
+    <div className="container mx-auto px-12">AboutImg</div>
   )
 }
 
