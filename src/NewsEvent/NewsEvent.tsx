@@ -40,7 +40,7 @@ const NewsEvent = () => {
         <div className="">
             <div className="text-xl bg-gray-700 flex text-white">
                 <p className="">View all news and events</p>
-                <p className="pt-[3px]"><IonIcon name="chevron-forward-circle-outline"></IonIcon></p>
+                <p className="pt-[3px] pl-4"><IonIcon name="chevron-forward-circle-outline"></IonIcon></p>
             </div>
         </div>
 
