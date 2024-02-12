@@ -7,7 +7,7 @@ const MoreNews = () => {
     <div>
         <NavBar />
         <div className="container mx-auto px-10">
-            News
+            <p className="text-4xl font-semibold text-center my-12">News and Events</p>
         </div>
 
         <Footer />
