@@ -6,7 +6,7 @@ const NewsEvent = () => {
         <div className="md:grid grid-cols-2 gap-4">
             <div className="">
                 <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="w-11/12 rounded"/>
-                <p className="">Award and Recognition</p>
+                <p className="pt-2 text-2xl font-semibold">Award and Recognition</p>
                 <p className="">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
             </div>
             <div className="">
