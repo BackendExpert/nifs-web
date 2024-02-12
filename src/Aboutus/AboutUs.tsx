@@ -12,7 +12,10 @@ const AboutUs = () => {
           <div className="bg-gray-700 md:visible invisible">
           </div>
         </div>
-        
+        <div className="">
+          <p className="">We are the premier institute for advancing fundamental Sciences</p>
+          <p className="">NIFS is engaged in scientific research to facilitate fundamental and advanced studies with an emphasis on basic research for national development as well as for the advancement of Science</p>
+        </div>
         <Footer />
     </div>
   )
