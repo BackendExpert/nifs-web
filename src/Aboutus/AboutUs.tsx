@@ -6,11 +6,11 @@ const AboutUs = () => {
   return (
     <div className="">
         <NavBar />
-        <div className="md:grid grid-cols-2 gap-2">
+        <div className="md:grid grid-cols-2">
           <div className="bg-[url(https://wallpapercave.com/wp/wp2468650.jpg)] w-full h-[550px] bg-cover bg-center">
 
           </div>
-          <div className="">
+          <div className="bg-gray-700">
 
           </div>
         </div>
