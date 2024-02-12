@@ -1,5 +1,6 @@
 import IonIcon from "@reacticons/ionicons"
 import { useState } from "react"
+import SLlogo from "../assets/pngegg.png"
 
 const navBar = () => {
   let [openMenu, setMenu] = useState(false);
@@ -68,8 +69,8 @@ const navBar = () => {
     <div className="shadow-md w-full top-0 left-0 bg-blue-900">
       <div className="md:flex items-center justify-between bg-gray-700 text-white py-4 md:px-20 px-7">
         <span className="flex">
-          <IonIcon className="text-3xl" name="chatbubbles" />
-          <span className="text-xl px-2">Logo Here</span>
+          <img src={SLlogo} alt="" className="w-auto h-8"/>
+          <span className="text-xl px-2">NIFS</span>
         </span>
         <div onClick={() => setMenu(!openMenu)} className="text-2xl absolute cursor-pointer right-8 top-4 md:hidden ">
             <IonIcon name={openMenu ? "close" : "menu"}/>
