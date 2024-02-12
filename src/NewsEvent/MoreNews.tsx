@@ -33,8 +33,8 @@ const MoreNews = () => {
                 </div>
                 <div className="md:mb-0 mb-8">
                     <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="rounded md:w-3/4 h-auto"/>
-                    <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Competition</p>
-                    <p className="mt-8">Champion of the Research Competition</p>
+                    <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Award and Recognition</p>
+                    <p className="mt-8">NIFS Vilunteer Researcher Honored with the Gold Medal</p>
                 </div>
                 <div className="md:mb-0 mb-8">
                     <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="rounded md:w-3/4 h-auto"/>
