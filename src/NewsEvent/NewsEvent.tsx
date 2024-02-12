@@ -22,14 +22,14 @@ const NewsEvent = () => {
                         <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="md:w-10/12 rounded"/>
                     </div>
                     <div className="md:ml-[-30px]">
-                    <p className="text-2xl font-semibold">Press Release</p>
+                        <p className="text-2xl font-semibold"></p>
                         <p className="">The NIFS inputs have been fruitful</p>
                     </div>
                     <div className="">
                         <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="md:w-10/12 rounded"/>
                     </div>
                     <div className="md:ml-[-30px]">
-                    <p className="text-2xl font-semibold">Press Release</p>
+                        <p className="text-2xl font-semibold">Press Release</p>
                         <p className="">The NIFS inputs have been fruitful</p>
                     </div>
                 </div>
