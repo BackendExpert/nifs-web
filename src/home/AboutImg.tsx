@@ -8,14 +8,14 @@ const AboutImg = () => {
             <div className="bg-[url(https://wallpapercave.com/wp/wp6599686.jpg)] ml-16 w-3/4 h-[500px] bg-cover bg-center"></div>
             <div className="md:visible invisible">
             </div>
-
-            <div className="md:mt-[-400px]">
-                <p className="mt-20 text-2xl font-semibold">We are the premier institute for Advancing fundamental Sciences</p>
-                <div className="">
-                    <p className=""></p>
-                </div>
+        </div>
+        <div className="md:mt-[-400px] md:ml-[50%]">
+            <p className="mt-20 text-2xl font-semibold">We are the premier institute for Advancing fundamental Sciences</p>
+            <div className="">
+                <p className=""></p>
             </div>
         </div>
+        <div className="md:mb-[300px]"></div>
     </div>
   )
 }
