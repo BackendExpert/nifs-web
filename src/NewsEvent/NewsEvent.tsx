@@ -35,6 +35,14 @@ const NewsEvent = () => {
                 </div>
             </div>
         </div>
+
+        <div className="">
+            <div className="">
+                <p className="">View all news and events</p>
+                <p className=""></p>
+            </div>
+        </div>
+
     </div>
   )
 }
