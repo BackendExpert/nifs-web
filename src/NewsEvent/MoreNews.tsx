@@ -8,6 +8,18 @@ const MoreNews = () => {
         <NavBar />
         <div className="container mx-auto px-10">
             <p className="text-4xl font-semibold text-center my-12">News and Events</p>
+
+            <div className="md:grid grid-cols-3 gap-2">
+                <div className="bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
+                    dasd
+                </div>
+                <div className="bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
+                    dasd
+                </div>
+                <div className="bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
+                    dasd
+                </div>
+            </div>
         </div>
 
         <Footer />
