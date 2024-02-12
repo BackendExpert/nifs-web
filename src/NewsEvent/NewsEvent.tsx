@@ -38,7 +38,7 @@ const NewsEvent = () => {
         </div>
 
         <div className="">
-            <div className="text-xl bg-gray-700 flex text-white">
+            <div className="text-xl bg-gray-700 flex text-white py-2">
                 <p className="">View all news and events</p>
                 <p className="pt-[3px] pl-4"><IonIcon name="chevron-forward-circle-outline"></IonIcon></p>
             </div>
