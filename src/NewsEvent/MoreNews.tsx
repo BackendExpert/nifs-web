@@ -17,13 +17,13 @@ const MoreNews = () => {
                 </div>
                 <div className="md:mb-0 mb-8">
                     <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="rounded md:w-3/4 h-auto"/>
-                    <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Award and Recognition</p>
-                    <p className="mt-8">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
+                    <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Competition</p>
+                    <p className="mt-8">Champion of the Research Competition</p>
                 </div>
                 <div className="md:mb-0 mb-8">
                     <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="rounded md:w-3/4 h-auto"/>
-                    <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Award and Recognition</p>
-                    <p className="mt-8">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
+                    <p className="font-semibold text-xl mt-[-50px] text-white ml-8">Press Release</p>
+                    <p className="mt-8">The NIFS input have been fruitful</p>
                 </div>
                 
             </div>
