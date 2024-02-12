@@ -11,7 +11,8 @@ const MoreNews = () => {
 
             <div className="md:grid grid-cols-3 gap-2 mb-16">
                 <div className="rounded bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
-                    dasd
+                    <p className="">Award and Recognition</p>
+                    <p className=""></p>
                 </div>
                 <div className="rounded bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
                     dasd
