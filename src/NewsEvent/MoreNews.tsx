@@ -48,7 +48,7 @@ const MoreNews = () => {
                 <p className="text-blue-700"><IonIcon name="chevron-forward" ></IonIcon></p>
             </div>
 
-            <div className="md:mb-[150px]"></div>
+            <div className="md:mb-[150px] mb-24"></div>
         </div>
 
         <Footer />
