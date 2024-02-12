@@ -11,8 +11,9 @@ const AboutImg = () => {
         </div>
         <div className="md:mt-[-400px] md:ml-[50%] md:px-0 px-10 md:pt-0 mt-[-250px] md:mb-0 mb-40 md:text-black text-white">
             <p className="mt-20 text-2xl font-semibold">We are the premier institute for Advancing fundamental Sciences</p>
-            <div className="">
+            <div className="flex">
                 <p className=""><IonIcon name="arrow-forward-circle-outline" ></IonIcon></p>
+                <div className="">Learn more about NIFS</div>
             </div>
         </div>
         <div className="md:mb-[300px]"></div>
