@@ -1,3 +1,4 @@
+import IonIcon from "@reacticons/ionicons"
 
 const NewsEvent = () => {
   return (
@@ -39,7 +40,7 @@ const NewsEvent = () => {
         <div className="">
             <div className="">
                 <p className="">View all news and events</p>
-                <p className=""></p>
+                <p className=""><IonIcon name="chevron-forward-circle-outline"></IonIcon></p>
             </div>
         </div>
 
