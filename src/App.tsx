@@ -4,6 +4,7 @@ import Contact from "./contact/Contact";
 import ResearchSub from "./research/researchSub";
 import BIo from "./research/BIo";
 import Evolution from "./research/Bio/Evolution";
+import EvolutionMore from "./research/Bio/EvolutionMore";
 
 
 export default function App() {
@@ -15,6 +16,7 @@ export default function App() {
         <Route path="/Research" element={<ResearchSub />} ></Route> 
         <Route path="/Research/Bio" element={<BIo />} ></Route>
         <Route path="/Research/Bio/Evolution" element={<Evolution />} ></Route>
+        <Route path="/Research/Bio/Evolution/EvolutionMore" element={<EvolutionMore />} ></Route>
       </Routes>
     </BrowserRouter>
   )
