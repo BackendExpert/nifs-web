@@ -1,5 +1,6 @@
 import IonIcon from "@reacticons/ionicons"
 import NavBar from "../nav/Navbar"
+import Footer from "../footer/Footer"
 
 const Contact = () => {
   return (
