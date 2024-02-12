@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div>
         <NavBar />
-
+        <img src="" alt="" className=""/>
         <Footer />
     </div>
   )
