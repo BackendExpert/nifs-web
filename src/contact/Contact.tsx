@@ -1,7 +1,10 @@
 import IonIcon from "@reacticons/ionicons"
+import NavBar from "../nav/Navbar"
 
 const Contact = () => {
   return (
+    <div className="">
+      
     <div className="container mx-auto px-10">
       <h1 className="text-center text-3xl font-semibold my-6">Contact Us</h1>
       <p className="text-2xl pb-2">Office Location</p>
@@ -168,6 +171,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
+    </div>
     </div>
   )
 }
