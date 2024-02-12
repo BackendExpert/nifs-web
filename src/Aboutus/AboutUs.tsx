@@ -17,7 +17,7 @@ const AboutUs = () => {
           </div>
         </div>
 
-        <div className="text-xl py-8 px-4">
+        <div className="text-xl py-8 px-16">
           <p className="">National Institute of Fundamental Studies, Sri Lanka</p>
           <p className="">The NIFS is the only institute in Sri Lanka whcih, by it's Act, exists for the sole purpose of cunduction research in natural and social Science and philosophy for national development and scientific advancement.</p>
           <p className="">The NIFS is engaged in basic, high caliber research focusing on 16 different thematic research areas under 6 research departments. The research carried out at the NIFS is also initiated as a response to burning national problems in Sri Lanka.</p>
