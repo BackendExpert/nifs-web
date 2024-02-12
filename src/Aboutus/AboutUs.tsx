@@ -1,14 +1,14 @@
 
 const AboutUs = () => {
   return (
-    <div className="container mx-auto px-12">
-      <div className="md:grid grid-cols-2 gap-2">
-        <div className="">
+    <div className="">
+        <div className="md:grid grid-cols-2 gap-2">
+          <div className="bg-[url(https://wallpapercave.com/wp/wp2468650.jpg)] w-full h-96 bg-cover bg-center">
 
-        </div>
-        <div className="">
-          
-        </div>
+          </div>
+          <div className="">
+
+          </div>
       </div>
     </div>
   )
