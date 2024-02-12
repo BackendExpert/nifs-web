@@ -18,13 +18,13 @@ const NewsEvent = () => {
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio adipisci laborum numquam velit beatae quidem iste laudantium necessitatibus ipsam vitae, nisi repudiandae nostrum architecto dolore sint 
                     </div>
                     <div className="">
-                        <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="w-10/12 rounded"/>
+                        <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="md:w-10/12 rounded"/>
                     </div>
                     <div className="md:ml-[-30px]">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio adipisci laborum numquam velit beatae quidem iste laudantium necessitatibus ipsam vitae, nisi repudiandae nostrum architecto dolore sint 
                     </div>
                     <div className="">
-                        <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="w-10/12 rounded"/>
+                        <img src="https://wallpapercave.com/wp/wp11190895.jpg" alt="" className="md:w-10/12 rounded"/>
                     </div>
                     <div className="md:ml-[-30px]">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio adipisci laborum numquam velit beatae quidem iste laudantium necessitatibus ipsam vitae, nisi repudiandae nostrum architecto dolore sint 
