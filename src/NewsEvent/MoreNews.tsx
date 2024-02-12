@@ -43,9 +43,9 @@ const MoreNews = () => {
                     <p className="mt-8">NIFS 2024 Conferemce on November 2024</p>
                 </div>                
             </div>
-            <div className="">
+            <div className="pl-[40%] flex">
                 <p className="">Page 1</p>
-                <p className=""><IonIcon name="chevron-forward" ></IonIcon></p>
+                <p className="text-blue-700"><IonIcon name="chevron-forward" ></IonIcon></p>
             </div>
 
             <div className="md:mb-[150px]"></div>
