@@ -7,6 +7,7 @@ import Evolution from "./research/Bio/Evolution";
 import EvolutionMore from "./research/Bio/EvolutionMore";
 import AboutUs from "./Aboutus/AboutUs";
 import MoreNews from "./NewsEvent/MoreNews";
+import MoreBlog from "./home/blog/MoreBlog";
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
         <Route path="/Research/Bio/Evolution" element={<Evolution />} ></Route>
         <Route path="/Research/Bio/Evolution/EvolutionMore" element={<EvolutionMore />} ></Route>
         <Route path="/NewsEvent/MoreNews" element={<MoreNews />} ></Route>
+        <Route path="/Blog" element={<MoreBlog />} ></Route>
       </Routes>
     </BrowserRouter>
   )
