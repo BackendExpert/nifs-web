@@ -5,6 +5,7 @@ import ResearchSub from "./research/researchSub";
 import BIo from "./research/BIo";
 import Evolution from "./research/Bio/Evolution";
 import EvolutionMore from "./research/Bio/EvolutionMore";
+import AboutUs from "./Aboutus/AboutUs";
 
 
 export default function App() {
@@ -12,7 +13,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} ></Route>       
-         
+        <Route path="/Aboutus" element={<AboutUs />}></Route>
         <Route path="/Contact" element={<Contact />} ></Route> 
         <Route path="/Research" element={<ResearchSub />} ></Route> 
         <Route path="/Research/Bio" element={<BIo />} ></Route>
