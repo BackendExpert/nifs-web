@@ -3,7 +3,6 @@ import Home from "./home/Home";
 import Contact from "./contact/Contact";
 import ResearchSub from "./research/researchSub";
 
-researchSub
 export default function App() {
   return (
     <BrowserRouter>
