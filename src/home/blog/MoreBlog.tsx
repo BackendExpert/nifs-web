@@ -13,7 +13,7 @@ const MoreBlog = () => {
             <div className="md:grid grid-cols-3 gap-2 mt-12">
                 <div className="">
                     <img src="https://wallpapercave.com/wp/wp3739590.jpg" alt="" className="w-11/12 h-full rounded"/>
-                    <p className="">Awareness</p>
+                    <p className="mt-[-5px]">Awareness</p>
                     <p className="">Stop the next pandemic? Stop illegal Wildlife tradel</p>
                 </div>
                 <div className="">
