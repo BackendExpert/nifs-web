@@ -11,16 +11,32 @@ const MoreNews = () => {
 
             <div className="md:grid grid-cols-3 gap-2 mb-16">
                 <div className="rounded bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
-                    <p className="">Award and Recognition</p>
-                    <p className=""></p>
+                    <p className="md:mt-40 font-semibold text-white ml-8">Award and Recognition</p>
+                    <p className="md:mt-[40px]">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
                 </div>
                 <div className="rounded bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
-                    dasd
+                    <p className="md:mt-40 font-semibold text-white ml-8">Award and Recognition</p>
+                    <p className="md:mt-[40px]">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
                 </div>
                 <div className="rounded bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
-                    dasd
+                    <p className="md:mt-40 font-semibold text-white ml-8">Award and Recognition</p>
+                    <p className="md:mt-[40px]">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
+                </div>
+                <div className="rounded bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
+                    <p className="md:mt-40 font-semibold text-white ml-8">Award and Recognition</p>
+                    <p className="md:mt-[40px]">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
+                </div>
+                <div className="rounded bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
+                    <p className="md:mt-40 font-semibold text-white ml-8">Award and Recognition</p>
+                    <p className="md:mt-[40px]">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
+                </div>
+                <div className="rounded bg-[url(https://wallpapercave.com/wp/wp11190895.jpg)] w-[90%] h-52 bg-cover bg-center">
+                    <p className="md:mt-40 font-semibold text-white ml-8">Award and Recognition</p>
+                    <p className="md:mt-[40px]">Three NIFS Researchers Ranked Among Top 2% Scientist in the World Elsevler/ Stanford Citation Analysis</p>
                 </div>
             </div>
+
+            <div className="md:mb-[150px]"></div>
         </div>
 
         <Footer />
